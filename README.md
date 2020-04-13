@@ -1,6 +1,5 @@
 # EXERCISE-911-Calls-Montgomery-PA
-Data from this [kaggle page](https://www.kaggle.com/mchirico/montcoalert) was used to extract information.  
-The objective was to learn and exercise some capabilities of the following Python libraries:
+Data from this [kaggle page](https://www.kaggle.com/mchirico/montcoalert) was used to extract information. The objective was to learn and exercise some capabilities of the following Python libraries:
 * Pandas
 * Numpy 
 * Matplotlib
